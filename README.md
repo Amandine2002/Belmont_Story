@@ -1,6 +1,6 @@
-# Les Mystères du Manoir Belmont
+# The Mysteries of Belmont Manor
 
-**Title**: Les Mystères du Manoir Belmont  
+**Title**: The Mysteries of Belmont Manor  
 **Main Mystery**: The Mystery of the Missing Heir  
 **Genre**: Adventure and mystery game inspired by *Professor Layton*  
 **Technology**: Unity 2021.3.33f1
@@ -9,7 +9,7 @@
 
 ## Game Description
 
-*Les Mystères du Manoir Belmont* immerses the player in a dark and mysterious investigation within the Belmont family manor. The player takes on the role of **Alex**, a childhood friend of **Julien Belmont**, the missing heir who disappeared after a tense family banquet filled with secrets. Guided by **Clara**, Julien's sister, Alex must explore various rooms in the manor, interview family members, and solve puzzles to uncover the manor's secrets and learn the truth about his friend's disappearance.
+*The Mysteries of Belmont Manor* immerses the player in a dark and mysterious investigation within the Belmont family manor. The player takes on the role of **Alex**, a childhood friend of **Julien Belmont**, the missing heir who disappeared after a tense family banquet filled with secrets. Guided by **Clara**, Julien's sister, Alex must explore various rooms in the manor, interview family members, and solve puzzles to uncover the manor's secrets and learn the truth about his friend's disappearance.
 
 ## Current Progress
 
