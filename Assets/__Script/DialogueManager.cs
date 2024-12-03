@@ -92,10 +92,9 @@ public class DialogueManager : MonoBehaviour {
 
     public void NextMessage() {
         activeMessage++;
-        // if (currentMessages == null || currentActors == null) {
-        //     Debug.LogError("currentMessages or currentActors are null!");
-        //     return;
-        // }
+        if (currentMessages == null || currentActors == null) {
+            return;
+        }
         if (activeMessage < currentMessages.Length) {
             DisplayMessage();
         } else {
