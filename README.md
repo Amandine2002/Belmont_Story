@@ -22,7 +22,7 @@ To play locally, follow these steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone git@github.com:YourUsername/Belmont-Legacy.git
+    git@github.com:Amandine2002/Belmont_Story.git
     ```
 
 2. **Open the Project**:
