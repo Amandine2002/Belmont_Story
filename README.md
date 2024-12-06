@@ -9,7 +9,15 @@ Step into the mysterious Belmont Manor as **Alex**, a close friend of the missin
 
 ## 🎮 **How to Play**
 
-To start investigating, follow these steps:  
+### Play Online  
+You can play directly in your browser at this link:  
+👉 [Play Belmont: A Legacy of Secrets](https://amandine2002.github.io/Belmont_Story/)  
+
+> **Note**: For the best experience, play with a screen resolution of **1920x1080**.  
+> If using another resolution, the layout may not display perfectly. Future updates will include support for all screen sizes.  
+
+### Play Locally  
+To play locally, follow these steps:  
 
 1. **Clone the Repository**:
 
