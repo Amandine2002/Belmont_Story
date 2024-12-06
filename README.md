@@ -1,82 +1,73 @@
-# Belmont: A Legacy of Secrets
+# 🔍 Belmont: A Legacy of Secrets 🕵️‍♂️
 
-**Title**: Belmont: A Legacy of Secrets  
-**Main Mystery**: The Mystery of the Missing Heir  
-**Genre**: Adventure and mystery game inspired by *Professor Layton*  
-**Technology**: Unity 2021.3.33f1  
+## 📜 **Game Summary**
 
----
-
-## Game Description
-
-*Belmont: A Legacy of Secrets* invites players into the enigmatic world of the Belmont family, unraveling a web of secrets centered around the disappearance of **Julien Belmont**, the heir to the Belmont legacy. Players assume the role of **Alex**, a close friend of Julien, embarking on an investigative journey to uncover the truth. Guided by Julien's sister, **Clara**, Alex explores the **Belmont Manor**, solving puzzles, gathering clues, and unveiling family mysteries that intertwine with Julien’s fate.
+Welcome to **Belmont: A Legacy of Secrets!**  
+Step into the mysterious Belmont Manor as **Alex**, a close friend of the missing heir, **Julien Belmont**. Explore the manor, uncover family secrets, and solve intricate puzzles to unravel the mystery of Julien's disappearance after a tense family banquet. Will you uncover the truth or be lost in the shadows of the Belmont legacy?  
 
 ---
 
-## Features
+## 🎮 **How to Play**
 
-### Key Features
+To start investigating, follow these steps:  
 
-- **Narrative Exploration**:
-  - A gripping story centered on family secrets, hidden motives, and a tense family gathering.
-  - Dialogues with rich character backstories that reveal critical clues.
+1. **Clone the Repository**:
 
-- **Interactive Gameplay**:
-  - Players navigate the manor through a **map-based system**, selecting rooms to explore.
-  - **Puzzle-solving mechanics** challenge players with logic-based and deductive tasks.
+    ```bash
+    git clone git@github.com:YourUsername/Belmont-Legacy.git
+    ```
 
-- **Immersive Design**:
-  - Hand-drawn 2D visuals that create a nostalgic yet mysterious atmosphere.
-  - Atmospheric sound effects and background music enhance the tension and intrigue.
+2. **Open the Project**:
+    - Launch Unity 2021.3.33f1 and open the cloned folder.
 
-### Core Functionalities
-
-- **Dialogue System**:
-  - Fully implemented character dialogues displayed with names, messages, and avatars.
-  - Dialogues provide hints and progress the narrative.
-
-- **Scene Navigation**:
-  - A map in the top-right corner allows for seamless movement between rooms.
-  - Clicking on room buttons triggers transitions to respective scenes.
-
-- **Puzzle Mechanics**:
-  - Players interact with objects to uncover clues and solve integrated puzzles.
-  - Examples include reordering books in the library, finding hidden compartments, and playing a melody on the piano.
+3. **Play the Game**:
+    - Press the **Play** button in Unity to dive into the mystery.
 
 ---
 
-## Highlights of Development
+## 🛠️ **Game Features**
 
-### Achievements
+- **Interactive Exploration**:
+  - Navigate the Belmont Manor using an intuitive **map system**, and explore rooms such as the Main Hall, Music Room, Library, and Julien's Bedroom.
+  
+- **Challenging Puzzles**:
+  - Solve a variety of puzzles, including:
+    - **Logic-based puzzles** in the Library.
+    - **Musical challenges** involving the piano in the Music Room.
+    - **Clue-finding puzzles** in Julien's Bedroom.
 
-- **Polished Core Gameplay**:
-  - All planned game mechanics are functional and integrated, including puzzle validation and narrative flow.
-  - Progressive **hint system** implemented to assist players without reducing the challenge.
+- **Dynamic Dialogue System**:
+  - Engage with the Belmont family through immersive dialogues, uncover their secrets, and piece together the story.
 
-- **Engaging Storyline**:
-  - Fully developed main story, including character backstories, secrets, and climactic resolution.
-  - The discovery of a letter revealing a pivotal family secret ties together the narrative.
+- **Hints and Progression**:
+  - A **progressive hint system** assists players when they’re stuck, and a notebook keeps track of clues.
 
-- **Player Experience**:
-  - Dynamic map functionality and an interactive dialogue system keep players immersed.
-  - Visual and audio assets align with the game's aesthetic, creating a cohesive experience.
-
-### Post-Development Refinements
-
-- Enhanced clue design to make puzzles intuitive yet challenging.
-- Bug fixes to improve visual consistency and interaction flow.
-- Minor adjustments to dialogue pacing for better story immersion.
+- **Atmospheric Design**:
+  - Experience hand-drawn 2D visuals, a mysterious soundtrack, and ambient sound effects that bring the Belmont Manor to life.
 
 ---
 
-## Instructions to Run the Game
+## 📚 **Technologies Used**
 
-1. **Clone the Repository**: Clone the project files from the designated repository.
-2. **Open in Unity**: Launch Unity 2021.3.33f1 and open the project folder.
-3. **Play the Game**: Press the **Play** button in Unity to experience the game.  
+- **Unity 2021.3.33f1**: For game development and scene management.
+- **C#**: To handle scripting, puzzle logic, and dialogue systems.
 
 ---
 
-## Final Notes
+## 🚀 **Development Highlights**
 
-*Belmont: A Legacy of Secrets* is a complete, standalone mystery game developed within a two-week timeframe. It demonstrates the effective use of Unity's tools to create a polished narrative experience with interactive puzzles and engaging storytelling.  
+- **Complete Gameplay**:
+  - Core mechanics, puzzles, and narrative flow fully implemented and tested.
+- **Bug Fixes**:
+  - All reported visual and interaction issues resolved during development.
+- **Balanced Experience**:
+  - Clues and puzzles refined based on player feedback to ensure accessibility without losing challenge.
+
+---
+
+## 📧 **Contact**
+
+Have questions or feedback? Feel free to reach out:  
+**Email**: arius@siue.edu  
+
+Embark on your journey and uncover the secrets of **Belmont: A Legacy of Secrets!** 🕵️‍♀️  
